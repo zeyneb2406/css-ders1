@@ -1,0 +1,55 @@
+#conteiner{
+    background-color: rgb(241, 223, 200);
+    margin: 0;
+    padding: 0;
+    border-style: solid; 
+    border-color: black;
+    border-top: 170%;
+}
+
+#box1{
+    background-color: rgb(247, 9, 247);
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+   text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    top: 30px;
+    left: 350px;
+}
+#box2{
+    background-color: rgb(26, 26, 233);
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+    bottom: 270px;
+    left: 750px;
+}
+#box3{
+    background-color: rgb(8, 239, 154);
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+    bottom: 250px;
+    left: 350px;
+}
+#box4{
+    background-color: rgb(250, 111, 185);
+     width: 300px;
+    height: 300px;
+    display: inline-block;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+    bottom: 550px;
+    left: 750px;
+}
